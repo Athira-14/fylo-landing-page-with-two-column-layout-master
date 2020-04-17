@@ -1,0 +1,152 @@
+
+@media (max-width:800px) {
+  .row1{
+    text-align: center;
+  }
+  .btn2{
+    width: 100%;
+    height: 150%;
+  }
+
+.row2{
+  text-align: left;
+}
+.on{
+  text-align: center;
+}
+.a2{
+  text-align: center;
+}
+.two{
+  text-align: center;
+  display:block;
+
+    margin-right: none;
+
+}
+.three{
+  text-align: center;
+}
+.btn3{
+  height: 40%;
+  width: 80%;
+  margin-bottom: 10px;
+}
+.row4{
+  padding-left: 80px;
+}
+}
+
+#title{
+
+
+      padding-left: 40px;
+
+    height: 130px;
+  }
+.row1{
+
+    padding-top: 50px;
+    /* border-bottom-width: 50px; */
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+.col1{
+text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+}
+.col2{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.btn2{
+  width: 70%;
+  height: 150%;
+  color: white;
+  background-color: hsl(224, 93%, 58%);
+  border: none;
+}
+.a1{
+  color: hsl(176, 68%, 64%);
+  text-decoration: underline;
+
+}
+.on1{
+
+    padding-right: 30px;
+
+}
+.two{
+background-color: white;
+    margin-top: 20px;
+    margin-right: 60px;
+text-align: left;
+        padding-left: 5%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        padding-right: 5%;
+
+}
+.img1{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+  float: left;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.three{
+  background-color: hsl(238, 22%, 44%);
+  color: white;
+
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+
+}
+.btn3{
+  height: 40%;
+  width: 50%;
+  margin-bottom: 10px;
+  color: white;
+  background-color: hsl(224, 93%, 58%);
+  border: none;
+}
+.hi{
+  font-size: 20px;
+  padding-right: 10px;
+  text-align: center;
+border: 1px solid;
+border-radius: 50%;
+
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.four{
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+}
+.on{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.nav-item{
+  padding: 0 18px;
+  text-align: right;
+
+}
